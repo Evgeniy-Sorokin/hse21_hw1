@@ -1,0 +1,4 @@
+Platanus version: 1.2.4
+platanus gap_close -o Poil -c Poil_scaffold.fa -IP1 sub_pair1.fq.trimmed sub_pair2.fq.trimmed -OP2 sub_mate1.fq.int_trimmed sub_mate2.fq.int_trimmed 
+
+Error(1): File open exception!!

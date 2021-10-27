@@ -1,0 +1,5 @@
+Platanus version: 1.2.4
+platanus assemble -f sub_pair1.fq.trimmed sub_pair2.fq.trimme 
+
+Error(1): File not open exception!!
+sub_pair2.fq.trimme is not open!!
